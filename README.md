@@ -31,6 +31,13 @@ Why XGBoost?
 - XGBoost
 - Streamlit
 
+## Dataset
+This project uses the **PaySim Synthetic Financial Dataset**.
+Due to its large size (~6M+ transactions), the dataset is not included in this repository.
+
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+
 ##  Run Locally
 ```bash
 pip install -r requirements.txt
